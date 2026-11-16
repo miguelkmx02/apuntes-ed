@@ -1,2 +1,2 @@
 Nombre proyecto: Apuntes ED
-Descripcion: practica de Git con la terminal
+Descripcion: practica evaluable 1 de Git con la terminal
