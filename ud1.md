@@ -6,5 +6,9 @@ Las fases de un proyecto y en qué se diferencian diseño, implementación y man
 Cómo trabajan los equipos de desarrollo actuales y cuándo conviene hacerlo así
 Qué herramientas se usan y cómo evaluarlas con criterios de usabilidad y eficiencia
 
+
 Linea añadida desde clase
+
+Linea añadida desde casa
+
 
